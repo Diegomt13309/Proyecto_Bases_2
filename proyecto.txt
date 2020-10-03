@@ -1,0 +1,137 @@
+Avance Proyecto #1 (Entrega 13-oct-2020 11:59am)
+
+Proyecto
+
+========
+
+Entrega Martes 10 de Noviembre 2020: Se entrega el video (Explicación detallada 10-15 minutos)
+
+ y el fuente de los programas en ZIP.
+
+Subir Video de Avance Martes 13 de Octubre (Enviar link GDRIVE o DropBox o OneDrive por email al profesor: manuel.espinoza.guerrero@una.ac.cr)
+
+Explicando el avance: 3 a 5 minutos. (Muy puntual)
+
+Nota. Para entregable final se hará otro apartado en el aula virtual.
+
+Crear un menú .BAT para manejo con 
+
+MySQL, PostgreSQL, SQLServer (El profesor asigna por canal)
+
+1) Opcion crear BD, debe indicar el nombre (crearla con usuario root)
+
+2) Opcion crear tabla (deben indicar el nombre de la tabla, pero la estructura es "fija" para
+
+   que calce con el archivo de CSV a importar)
+
+3) Montar un archivo de Excel (o buscar algun ejempoo FREE) con al menos 5mil registros (deben indicar la fuente LINK en comentario)
+
+   y crear opcion para cargar dicho archivo (debe leer en pantalla el nombre del archivo)
+
+   y leer en pantalla nombre de la BD donde se va a importar
+
+4) Crear opcion de Export de la bD, cqapturar nombre de archivo
+
+5) Crear opcion import.
+
+Crear video con la explicación de la funcionalidad y codigo fuente. (un video ya final
+
+que explique lo sintengrates, el codigo y el funcionamiento de la herramienta)
+
+Todo lo anterior para todos los grupos.
+
+Grupos con 4 Integrantes:
+
+============================
+
+Deberan crear opcion comprimir, encriptar y namedate (en los export e import)
+
+y leer el mas reciente para el import (descomprimir, desenciptar) 
+
+la clave de encriptar o desencriptar debe estar fija en archivo clave.ini (Se lee de allí)
+
+Grupos con 5 integrantes.
+
+=========================
+
+Ademas de lo anterior; crear un archivo de parametros.ini
+
+Linea #1 (Pantalla /Archivo / Nulo) -corresponde 
+
+Linea #2 (Nombre de archivo.log)  Ejemplo salida.log (este archivo será acumulativo de todos los logs de todo lo que se ejecute)
+
+================================================================================================================
+
+Para TODOS: TODO LO QUE COPIEN DE INTERNET deben indicar la fuente y el link (EN EL CODIGO, com oun comentario con REM o con -- (SQL))
+
+sino se considera PLAGIO, 
+
+================================================================================================================
+
+CANALES (Grupos de Estudiantes)
+
+// MySQL, PostgreSQL, SQLServer (El profesor asigna por canal)
+
+(Instalar SQL Server Express Edition)
+
+Para todos puede ser versión mas reciente, o inmediatamente anterior a la más reciente.
+
+.......................................................
+
+3pm (25 estudiantes) 6 grupos 
+
+Canal No 1 (Ian, Edso, Maria Fernanda, Steven) x4 MySQL
+
+Canal No 2 (Alvaro, Isaac, Javier, Kevin) x4 PostgreSQL
+
+Canal No 3 (Andrei, Cristian, Josue, Bayron) x4 SQLServer
+
+Canal No 4 (Bryan, Luis, Cristopher, Marvin, Roberth ) x5 MySQL
+
+Canal No 5 (Carlos, Natalia, Joy, Jose) x4 PostgreSQL
+
+Canal No 6 (Diego, Djenane, Frank, Moises) x4 SQLServer
+
+.......................................................
+
+6pm (26 estudiantes) 7 grupos
+
+Canal No 1(Adrian, Mario, Keilor) x3 MySQL
+
+Canal No 2(Braslyn, Enrique M, David G, Philippe) x4 PostgreSQL
+
+Canal No 3(Dafhnne, David A, Leonardo, Richard) x4 SQLServer
+
+Canal No 4(Erick B, Ignacio, Nicole) x3 SQLServer
+
+Canal No 5(Erick Q. Monserrath, Jose B) x3 PostgreSQL
+
+Canal No 6(Francisco, Rebecca, Josue, Jose R) x4 MySQL
+
+Canal No 7(Grace, Jendry, Mariana, Rosa, Kevin) x5 PostgreSQL
+
+.......................................................
+
+8pm (27 estudiantes) 7 grupos 
+
+Canal No 1(Alina, Enrique S, Jasson, Jose H, Kevin) x5 MySQL
+
+Canal No 2(Antony, Naomy, Joseph, Enrique Z) x4 SQLServer
+
+Canal No 3(Carlos, David C, David V, Jose M) x4 PostgreSQL
+
+Canal No 4(Esteban, Sergio, Gabriel) x3 PostgreSQL
+
+Canal No 5(Grelvin, Juan M, Tannya) x3 SQLServer
+
+Canal No 6(Jose B, Juan Q, Mario, Luis V.) x4 MySQL
+
+Canal No 7(Joseline, Maria, Luis J, Robeth) x4 SQLServer
+
+.......................................................
+
+Hay un avance en la semana 3 que deben presentar al profesor, debe estar al menos la BD funcionando y algunos procesos de las opciones
+
+1,2 listas!
+
+Este Avance tiene una nota de 30% del total del proyecto.
