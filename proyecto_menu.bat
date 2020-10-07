@@ -16,6 +16,7 @@ set /p choice=Indique la opcion correspondiente:
 if not '%choice%'=='' set choice=%choice:~0,1%
 if '%choice%'=='1' goto OptNBase
 if '%choice%'=='2' goto OptNTabla
+if '%choice%'=='3' goto OptCargarCSV
 
 ECHO "%choice%" Opcion incorrecta.
 pause
@@ -29,3 +30,9 @@ goto Optstart
 :OptNTabla
 start proyecto_new_table.bat
 goto Optstart
+
+:OptCargarCSV
+start cargarDatos.bat
+goto Optstart
+
+

@@ -1,11 +1,14 @@
 
 CREATE TABLE $(base).dbo.$(tablaN) (
 --falta definir el nombre de las columnas, para usar el excel
-    PersonID int,
-    LastName varchar(255),
-    FirstName varchar(255),
-    Address varchar(255),
-    City varchar(255)
+    Species varchar(50),
+    Yyear int,
+    Vvariable varchar(50),
+    Units varchar(20),
+    Magnitude varchar(20),
+	Source varchar(30),
+	Data_Value float,
+	Flag varchar(1)
 ); 
 go
 exit 

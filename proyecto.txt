@@ -56,6 +56,7 @@ Grupos con 5 integrantes.
 
 Ademas de lo anterior; crear un archivo de parametros.ini
 
+parametrizar, si el archivos dice pantalla, pinte pantalla
 Linea #1 (Pantalla /Archivo / Nulo) -corresponde 
 
 Linea #2 (Nombre de archivo.log)  Ejemplo salida.log (este archivo será acumulativo de todos los logs de todo lo que se ejecute)
