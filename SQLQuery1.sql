@@ -1,0 +1,9 @@
+BULK
+INSERT Fishing
+FROM 'C:\basePrueba.csv'
+WITH
+(
+FIELDTERMINATOR = ',',
+ROWTERMINATOR = '\n'
+)
+GO
