@@ -1,6 +1,4 @@
-
 CREATE TABLE $(base).dbo.$(tablaN) (
---falta definir el nombre de las columnas, para usar el excel
     Species varchar(50),
     Yyear int,
     Vvariable varchar(50),
