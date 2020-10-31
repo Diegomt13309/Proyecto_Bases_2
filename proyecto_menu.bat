@@ -8,6 +8,7 @@ ECHO 1. Borrar y Crear Base de Datos
 ECHO 2. Crear Tabla
 ECHO 3. Cargar Excel
 ECHO 4. Backup (Export)
+ECHO 5. Restore (Import)
 ECHO 0. Salir
 
 set choice=
@@ -17,7 +18,7 @@ if '%choice%'=='1' goto OptNBase
 if '%choice%'=='2' goto OptNTabla
 if '%choice%'=='3' goto OptCargarCSV
 if '%choice%'=='4' goto OptExport
-if '%choice%'=='' goto OptExport
+if '%choice%'=='5' goto OptImport
 if '%choice%'=='0' goto OptSalir
 
 ECHO "%choice%" Opcion incorrecta.
@@ -39,6 +40,10 @@ goto Optstart
 
 :OptExport
 start export_proyecto.bat
+goto Optstart
+
+:OptImport
+start import_proyecto.bat
 goto Optstart
 
 :OptSalir
