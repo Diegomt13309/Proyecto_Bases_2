@@ -1,0 +1,13 @@
+11 percent processed.
+21 percent processed.
+30 percent processed.
+40 percent processed.
+51 percent processed.
+61 percent processed.
+70 percent processed.
+80 percent processed.
+91 percent processed.
+100 percent processed.
+Processed 432 pages for database 'fez1', file 'Import' on file 1.
+Processed 2 pages for database 'fez1', file 'Import_log' on file 1.
+RESTORE DATABASE ... FILE=<name> successfully processed 434 pages in 0.055 seconds (61.576 MB/sec).
