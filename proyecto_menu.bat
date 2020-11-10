@@ -25,8 +25,8 @@ if '%choice%'=='4' goto OptExport
 if '%choice%'=='5' goto OptCEExport
 if '%choice%'=='6' goto OptDDExport
 if '%choice%'=='7' goto OptImport
-if '%choice%'=='8' goto OptImport
-if '%choice%'=='9' goto OptImport
+if '%choice%'=='8' goto OptCEImport
+if '%choice%'=='9' goto OptDDImport
 if '%choice%'=='0' goto OptSalir
 
 ECHO "%choice%" Opcion incorrecta.

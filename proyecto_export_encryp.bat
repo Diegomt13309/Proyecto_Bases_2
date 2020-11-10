@@ -13,7 +13,7 @@ REM Encriptar export
 "C:\Program Files\AESCrypt\aescrypt.exe" -e -p %VClave% "%VRuta%\backup.7z"
 
 REM NameDate
-namedate.exe -Y -ZZ:"(F)Y-m-d(H-M-S).X" "%VRuta%\backup.7z.aes">>aesj.ini
+namedate.exe -Y -ZZ:"(F)Y-m-d(H-M-S).X" "%VRuta%\backup.7z.aes"
 
 REM Borrar archivos 
 del "%VRutaA%"
