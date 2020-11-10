@@ -11,3 +11,6 @@
 Processed 432 pages for database 'fez1', file 'Import' on file 1.
 Processed 2 pages for database 'fez1', file 'Import_log' on file 1.
 RESTORE DATABASE ... FILE=<name> successfully processed 434 pages in 0.055 seconds (61.576 MB/sec).
+Changed database context to 'Avril'.
+
+(5333 rows affected)

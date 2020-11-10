@@ -1,5 +1,20 @@
-                             
------------------------------
-Base: Import creada con exito
+                            
+----------------------------
+Base: Avril creada con exito
 
 (1 rows affected)
+----------------------------------
+                                                     
+-----------------------------------------------------
+Tabla: Pescados creada con exito en la base => Avril.
+
+(1 rows affected)
+--------------------------------
+Changed database context to 'Avril'.
+
+(5333 rows affected)
+----------------------------
+Processed 456 pages for database 'Avril', file 'Avril' on file 1.
+Processed 2 pages for database 'Avril', file 'Avril_log' on file 1.
+BACKUP DATABASE successfully processed 458 pages in 0.087 seconds (41.082 MB/sec).
+---------------------------

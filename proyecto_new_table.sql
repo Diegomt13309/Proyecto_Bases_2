@@ -8,7 +8,6 @@ CREATE TABLE $(base).dbo.$(tablaN) (
 	Data_Value float,
 	Flag varchar(1)
 ); 
-
-Select 'Tabla: $(tablaN) creada con exito en $(base).';
+Select 'Tabla: $(tablaN) creada con exito en la base => $(base).';
 go
 exit 
